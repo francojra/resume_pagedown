@@ -22,7 +22,7 @@ Contact Info {#contact}
 
 - <i class="fa fa-envelope"></i> jeanne.raquel02@hotmail.com
 - <i class="fa fa-github"></i> [github.com/francojra](https://github.com/francojra)
-- <i class="fa fa-phone"></i> +55 (84)99978-1275
+- <i class="fa fa-phone"></i> +55...
 
 
 Skills {#skills}
