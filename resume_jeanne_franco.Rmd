@@ -1,0 +1,296 @@
+---
+title: "Jeanne Franco's resume"
+author: Jeanne Franco
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Jeanne Franco](Foto_JeanneFranco.png){width=60%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> jeanne.raquel02@hotmail.com
+- <i class="fa fa-github"></i> [github.com/francojra](https://github.com/francojra)
+- <i class="fa fa-phone"></i> +55 (84)99978-1275
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in statistical analysis, data visualization (graphics with package ggplot2), and data manipulation (package dplyr).
+
+- Skilled in R and experienced in R Markdown (package that produces high quality documents, that saves and executes codes).
+
+- Knowledge in R Shiny.
+
+- Basic knowledge in Python, BigQuery, JavaScript, HTML and CSS.
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+
+
+Main
+================================================================================
+
+Jeanne Franco {#title}
+--------------------------------------------------------------------------------
+
+### Currently searching for a Data Engineer or Data Scientist position
+
+Currently I am a collaborator of the company Beta Analítica that helps in statistical analysis consultancies for universities and companies. I am also one of the organizers of the R-Ladies Natal community, an organization with the mission of promoting gender diversity in the R software community. I am enthusiastic about using R for data science with experience in data visualization using the ggplot2 package, manipulating data tables with the dplyr package, producing reports with R Markdown and tech applications with shiny. I am interested in Python, SQL, BigQuery, JavaScript and am learning about HTML and CSS. 
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Universidade Federal do Rio Grande do Norte - UFRN
+
+B.S. in Ecology
+
+Natal, RN, Brazil
+
+2009 - 2014
+
+
+
+### Unidade Acadêmica Especializada em Ciências Agrárias - UFRN
+
+M.S. in Forestry Sciences 
+
+Jundiaí, RN, Brazil
+
+2015 - 2017
+
+
+
+### Universidade Federal do Rio Grande do Norte - UFRN
+
+PhD in Ecology 
+
+Natal, RN, Brazil
+
+2018 - Current
+
+
+Experiences {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Producing scientific graphics with the ggplot2 package 
+
+N/A
+
+N/A
+
+- Bar, line, scatter, box-plot, violin, density and histogram charts in different styles;
+- Charts with modifications of legend sizes and colors, inclusion of title, subtitle and caption and inclusion of mean values, statistics and number of samples.
+
+### Data manipulation with the dplyr package.
+
+N/A
+
+N/A
+
+### Knowledge of R markdown: word, HTML, PDF, power point and e-book files for online publishing.
+
+
+
+N/A
+
+N/A
+
+
+  
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### R-Ladies Natal 
+
+
+2020 - Current
+
+N/A
+
+- R-ladies is a worldwide organization with a mission to promote diversity gender through events and course applications using the software R.
+
+### Beta Analítica 
+
+2020 - Current
+
+N/A
+
+::: concise
+- Company that assists in statistical analysis consultancies.
+- Located in Minas Gerais, Brazil. 
+:::
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### R for beginners 
+
+R-Ladies Natal
+
+N/A
+
+2021
+
+### Introduction to RMarkdown 
+
+R-Ladies Natal
+
+N/A
+
+2021
+
+### Introduction to R: Step by step for beginners 
+
+R-Ladies Natal
+
+N/A
+
+2020
+
+### Visualizing data in R with ggplot2 
+
+Beta Analítica
+
+N/A
+
+2020 and 2021
+
+
+
+Certifications in technology {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Randomization Techniques in Biostatistics using R 
+
+6 hours
+
+N/A
+
+2013 
+
+
+### Introduction to R software 
+
+4 hours
+
+N/A
+
+2019
+
+
+
+### Introduction to the R language for ecology and related areas 
+
+8 hours
+
+N/A
+
+2019 
+
+
+### Entering the world of Python for Data Science  
+
+8 hours
+
+N/A
+
+2019 
+
+
+### Introduction to Phylogenetic Ecology with R   
+
+5 hours
+
+N/A
+
+2020 
+
+
+### Generalized Linear Models in R   
+
+8 hours
+
+N/A
+
+2020 
+
+
+### Reports and Presentations in RMarkdown   
+
+4 hours
+
+N/A
+
+2021
+
+### Introduction to Big Data
+
+4 hours
+
+N/A
+
+2021
+
+
+### Introduction to R 
+
+15 hours
+
+N/A
+
+2021
+
+
+### Introduction to Tidyverse 
+
+15 hours
+
+N/A
+
+2021
+
+
+<i class="fas fa-globe-americas"></i> Foreign languages 
+--------------------------------------------------------------------------------
+
+### Basic Spanish 
+
+N/A
+
+N/A
+
+::: concise
+- Proficiency test with score 9.5.
+:::
+
+### Intermediate English
+
+N/A
+
+N/A
+
+
+- Full course – 3 years;
+- Course in Program Idiomas sem Fronteiras – 108 hours;
+- Proficiency test with score 8.1.
